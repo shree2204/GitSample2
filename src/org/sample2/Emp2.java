@@ -6,5 +6,6 @@ public class Emp2 {
 		
 		System.out.println("First change");
 		System.out.println("Emp1 new change");
+		System.out.println("Emp2 new changes");
 	}
 }
